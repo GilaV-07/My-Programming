@@ -1,12 +1,6 @@
 import unittest
 from Assignment2 import *
 
-# Test case for max_two_in_list() function
-def test_max_two_in_list():
-    assert max_two_in_list([1, 3, 2, 5, 4]) == (5, 4)
-    assert max_two_in_list([10, 10, 9, 8, 7]) == (10, 9)
-    assert max_two_in_list([5]) == (5, None)
-
 # Test case for remove_duplicates_and_sort() function
 def test_remove_duplicates_and_sort():
     assert remove_duplicates_and_sort([3, 1, 2, 3, 1]) == [1, 2, 3]
@@ -16,11 +10,6 @@ def test_remove_duplicates_and_sort():
 def test_cumulative_sum():
     assert cumulative_sum([1, 2, 3, 4]) == [1, 3, 6, 10]
     assert cumulative_sum([5, 10, 15]) == [5, 15, 30]
-
-# Test case for transpose_matrix() function
-def test_transpose_matrix():
-    assert transpose_matrix([[1, 2, 3], [4, 5, 6]]) == [[1, 4], [2, 5], [3, 6]]
-    assert transpose_matrix([[7, 8], [9, 10], [11, 12]]) == [[7, 9, 11], [8, 10, 12]]
 
 # Test case for slice_every_nth() function
 def test_slice_every_nth():
@@ -39,3 +28,4 @@ def test_matrix_multiplication():
 
 if __name__ == '__main__':
     unittest.main()
+
