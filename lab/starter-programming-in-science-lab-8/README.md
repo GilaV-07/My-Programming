@@ -1,4 +1,4 @@
-# Programming in Science - Lab 8
+# Programming in Science - Lab 10
 
 This template repository is the starter project for **Programming in Science Lab 8**. Written in Python, and tested with Pytest.
 
@@ -38,4 +38,5 @@ To run the tests, use the following command:
 
 ```
 pytest
+
 ```
