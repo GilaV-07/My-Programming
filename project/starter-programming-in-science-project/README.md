@@ -7,17 +7,17 @@ This template repository is the starter project for the Programming in Science P
 4. Each student in each group is REQUIRED to present their work in a 10-15 minutes group presentation at the last week of class (Dec 8th to Dec 11th)
 
 # Project evaluation criteria
-## The following criteria are considered in the evaluation of the project:
-### · Correct implementation of algorithms
-### · Correct validation of inputs
-### · Well-formatted and understandable code
-### · Appropriate use of language constructs
-### · The program executes without errors
-### · The program provides the planned features
+ The following criteria are considered in the evaluation of the project:
+ · Correct implementation of algorithms
+ · Correct validation of inputs
+ · Well-formatted and understandable code
+ · Appropriate use of language constructs
+ · The program executes without errors
+ · The program provides the planned features
 
-## · Report:
-#### o Proper documentation of the implementation effort
-#### o Proper presentation of the data
+ · Report:
+ o Proper documentation of the implementation effort
+ o Proper presentation of the data
 
 ## Sample Project: Data Visualization (see the available list of projects from the teacher)
 
@@ -56,5 +56,6 @@ For this project, you are provided with the `mathematics.csv` file containing a 
 ### Run Command
 
 `pytest`
+
 
 
