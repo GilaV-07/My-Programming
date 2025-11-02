@@ -1,4 +1,3 @@
-import numpy as np
 
 # Function 1: Check if a Matrix is a Magic Square
 # This function checks if a given N x N matrix is a magic square.
@@ -9,4 +8,5 @@ def read_fasta(file_path):
 # This function generates an N x N magic square for an odd integer n.
 def base_percentages(seq):
    return {?????}
+
 
