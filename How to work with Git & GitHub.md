@@ -1,4 +1,6 @@
-# How to work with Git & GitHub
+# How to work with Git & GitHub  
+#########
+######
 
 Here are what steps you need to take to work with Git, GitHub, and GitHub Classroom on your computer using VSCode (not using an online tool):
 
@@ -15,3 +17,4 @@ Here are what steps you need to take to work with Git, GitHub, and GitHub Classr
 11. Next, type in "git commit -m "<YOUR-COMMENT>"" to commit the changes.
 12. And lastly, type in "git push" to push your code to the remote repository on GitHub.
 13. Now you can go to your GitHub repository page -> Actions to check your resutls.
+
